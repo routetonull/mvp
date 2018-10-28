@@ -1,3 +1,3 @@
 # MVP
 
-See https://www.ifconfig.it/hugo/post/mvp/ for details.
+See https://www.ifconfig.it/hugo/post/monitoringmvp/ for details.

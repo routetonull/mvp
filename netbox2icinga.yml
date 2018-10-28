@@ -1,0 +1,8 @@
+---
+icinga:
+  url :  https://icinga2serverIP:5665
+  user : icingaUser
+  password : icingaApiPassword
+netbox:
+  token : yourNetBoxToken
+  server : NetBoxServerIp
